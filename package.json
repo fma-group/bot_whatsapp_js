@@ -1,0 +1,28 @@
+{
+  "name": "bot_whatsapp_js",
+  "version": "1.0.0",
+  "description": "em breve",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fma-group/bot_whatsapp_js.git"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "node"
+  ],
+  "author": "fma group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fma-group/bot_whatsapp_js/issues"
+  },
+  "homepage": "https://github.com/fma-group/bot_whatsapp_js#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "venom-bot": "^3.0.18"
+  }
+}
